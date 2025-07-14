@@ -4,19 +4,6 @@ This project uses machine learning techniques to predict and classify student ac
 
 ---
 
-## 📌 Table of Contents
-
-- [Problem Statement](#problem-statement)
-- [Proposed Solution](#proposed-solution)
-- [Technologies Used](#technologies-used)
-- [Dataset Overview](#dataset-overview)
-- [Models Implemented](#models-implemented)
-- [How to Run](#how-to-run)
-- [Results](#results)
-- [Sample Visualizations](#sample-visualizations)
-- [Future Scope](#future-scope)
-
----
 
 ## 🧩 Problem Statement
 
