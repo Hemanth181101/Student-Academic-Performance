@@ -55,9 +55,3 @@ All models are trained, tested, and evaluated using accuracy, precision, recall,
 
 ---
 
-## ▶️ How to Run
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/your-username/student-performance-classification.git
-   cd student-performance-classification
